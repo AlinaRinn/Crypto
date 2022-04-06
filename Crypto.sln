@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crypto", "Crypto.vcxproj", "{1E51D42B-09B8-4FC3-A362-BEE883E78DA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Network", "..\Network\Network.vcxproj", "{9C82290F-E724-4F9D-A740-5949C595C70D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1E51D42B-09B8-4FC3-A362-BEE883E78DA2}.Release|x64.Build.0 = Release|x64
 		{1E51D42B-09B8-4FC3-A362-BEE883E78DA2}.Release|x86.ActiveCfg = Release|Win32
 		{1E51D42B-09B8-4FC3-A362-BEE883E78DA2}.Release|x86.Build.0 = Release|Win32
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Debug|x64.ActiveCfg = Debug|x64
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Debug|x64.Build.0 = Debug|x64
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Debug|x86.Build.0 = Debug|Win32
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Release|x64.ActiveCfg = Release|x64
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Release|x64.Build.0 = Release|x64
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Release|x86.ActiveCfg = Release|Win32
+		{9C82290F-E724-4F9D-A740-5949C595C70D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
